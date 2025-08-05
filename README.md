@@ -91,7 +91,6 @@
 Посетите мой [веб-сайт](https://yearningss.github.io/website/) для получения дополнительной информации о проектах и доступа к онлайн-инструментам.
 
 ## 📫 Как со мной связаться
-- Telegram: [@yearningss](https://t.me/yearningss)
 - GitHub: [yearningss](https://github.com/yearningss)
 - Веб-сайт: [yearningss.github.io](https://yearningss.github.io/website/)
 
